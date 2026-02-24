@@ -25,7 +25,7 @@ export default function Home() {
           </h1>
           <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-foreground/60 sm:text-xl">
             Experience the future of web development with lightning-fast builds,
-            seamless routing, and a developer experience like no other.
+            seamless routing, and a developer experience like no other
           </p>
 
           <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
