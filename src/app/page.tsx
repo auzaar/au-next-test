@@ -21,7 +21,7 @@ export default function Home() {
 
         <div className="max-w-3xl text-center">
           <h1 className="mb-6 bg-gradient-to-b from-primary to-primary/60 bg-clip-text text-5xl font-bold tracking-tight text-transparent sm:text-7xl">
-            A New Era of Next.js Performance.
+            A New Era of Next.js Performance
           </h1>
           <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-foreground/60 sm:text-xl">
             Experience the future of web development with lightning-fast builds,
